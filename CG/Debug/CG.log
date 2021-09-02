@@ -1,0 +1,6 @@
+﻿  cg.c
+D:\CG\CG\cg.c(136,16): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\CG\CG\cg.c(136,20): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\CG\CG\cg.c(136,24): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+D:\CG\CG\cg.c(136,28): warning C4244: “函数”: 从“int”转换到“float”，可能丢失数据
+  CG.vcxproj -> D:\CG\CG\Debug\CG.exe
